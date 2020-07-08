@@ -1,3 +1,5 @@
+# h4ci_sautparachute
+
 Script fait en RageUI pour pouvoir acheter des parachutes à certaines position (6 par défaut) puis sauter tout simplement...
 Avec affichage de blip sur la map.
 
